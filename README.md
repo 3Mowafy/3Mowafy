@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I’m Mohamed Mowafy — a frontend developer (Angular) 👋
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=3Mowafy)](https://github.com/ryo-ma/github-profile-trophy)
 
