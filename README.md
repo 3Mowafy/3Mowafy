@@ -1,4 +1,4 @@
-### Hi!, I'm Mohamed Mowafy | Front End Developer (Angular) 👋
+### Hi!, I'm Mohamed Mowafy | Front End Developer (Angular & Vue) 👋
 
  ![](https://komarev.com/ghpvc/?username=3Mowafy)
 
